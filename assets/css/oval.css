@@ -1,0 +1,11 @@
+.oval {
+  height: 81px;
+  width: 90%;
+  background-color: #eeeeee;
+  border-radius: 50%;
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 20%;
+  align-content: center;
+}
+

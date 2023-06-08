@@ -1,0 +1,8 @@
+.img-container {
+    margin: auto;
+    width: 90%;
+    border: 1px solid  rgb(189, 210, 241);
+    border-radius: 10px;
+    padding: 10px;
+}
+
